@@ -3,5 +3,5 @@
 
 NUMBER=$(( $ONE * $TWO ))
 
-echo $NUMBER
+echo "The number is: $NUMBER"
 
